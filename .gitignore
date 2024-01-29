@@ -2,7 +2,7 @@
 .vscode/
 App_Data/
 obj/**/*.txt
-obj/**/Bai1.*
+obj/**/BaiTH1.*
 obj/**/BaiTH1.csproj.*.cache
 obj/**/DesignTimeResolveAssemblyReferencesInput.cache
 !/packages/*/lib/*.dll
