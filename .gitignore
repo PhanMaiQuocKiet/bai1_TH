@@ -1,0 +1,16 @@
+.vs/
+App_Data/
+obj/**/*.txt
+obj/**/Bai1.*
+obj/**/BaiTH1.csproj.*.cache
+obj/**/DesignTimeResolveAssemblyReferencesInput.cache
+!/packages/*/lib/*.dll
+!/packages/*/lib/*.*.dll
+!/packages/*/lib/**/*.*.dll
+!/packages/*/lib/*.xml
+!/packages/*/lib/*.*.xml
+!/packages/*/lib/**/*.*.xml
+!/bin/roslyn/*
+bin/
+
+ 
